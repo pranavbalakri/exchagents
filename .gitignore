@@ -8,6 +8,9 @@ frontend/dist/
 # vercel
 .vercel/
 
+# docs
+spec.md
+
 # python
 __pycache__/
 *.pyc
